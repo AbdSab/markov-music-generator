@@ -1,0 +1,200 @@
+program_change channel=0 program=1 time=0
+control_change channel=0 control=7 value=127 time=0
+control_change channel=0 control=10 value=64 time=0
+control_change channel=1 control=32 value=0 time=0
+note_on channel=5 note=71 velocity=0 time=0
+pitchwheel channel=7 pitch=-1877 time=0
+note_on channel=9 note=44 velocity=100 time=0
+note_on channel=9 note=44 velocity=0 time=0
+control_change channel=0 control=64 value=127 time=0
+note_on channel=0 note=59 velocity=0 time=0
+note_on channel=14 note=62 velocity=127 time=0
+note_on channel=4 note=31 velocity=0 time=0
+note_on channel=7 note=80 velocity=0 time=0
+note_on channel=14 note=72 velocity=127 time=0
+note_on channel=11 note=74 velocity=124 time=0
+note_on channel=10 note=86 velocity=0 time=0
+note_on channel=11 note=71 velocity=0 time=0
+control_change channel=6 control=64 value=62 time=0
+note_on channel=9 note=44 velocity=0 time=0
+note_on channel=8 note=60 velocity=0 time=0
+control_change channel=6 control=64 value=55 time=0
+note_on channel=15 note=50 velocity=29 time=0
+pitchwheel channel=12 pitch=-716 time=0
+note_on channel=12 note=74 velocity=51 time=0
+note_on channel=11 note=66 velocity=127 time=0
+note_on channel=9 note=44 velocity=0 time=0
+note_on channel=10 note=81 velocity=0 time=0
+note_on channel=0 note=90 velocity=75 time=0
+note_on channel=5 note=62 velocity=0 time=0
+note_on channel=9 note=45 velocity=0 time=0
+note_on channel=0 note=88 velocity=0 time=0
+note_on channel=9 note=35 velocity=108 time=0
+note_on channel=2 note=79 velocity=102 time=0
+note_on channel=9 note=44 velocity=127 time=0
+control_change channel=13 control=7 value=127 time=0
+note_on channel=0 note=83 velocity=40 time=0
+note_on channel=9 note=35 velocity=108 time=0
+note_on channel=11 note=91 velocity=0 time=0
+note_on channel=2 note=79 velocity=0 time=0
+control_change channel=6 control=64 value=53 time=0
+note_on channel=7 note=77 velocity=124 time=0
+note_on channel=2 note=71 velocity=99 time=0
+note_on channel=5 note=78 velocity=82 time=0
+control_change channel=7 control=7 value=118 time=0
+note_on channel=1 note=71 velocity=0 time=0
+note_on channel=2 note=69 velocity=0 time=0
+note_on channel=9 note=44 velocity=88 time=0
+note_on channel=1 note=65 velocity=0 time=0
+pitchwheel channel=2 pitch=-4693 time=0
+note_on channel=3 note=62 velocity=0 time=0
+note_on channel=1 note=71 velocity=127 time=0
+note_on channel=9 note=44 velocity=83 time=0
+note_on channel=9 note=44 velocity=0 time=0
+note_on channel=9 note=49 velocity=108 time=0
+control_change channel=0 control=64 value=0 time=0
+note_on channel=0 note=81 velocity=84 time=0
+note_on channel=10 note=79 velocity=0 time=0
+control_change channel=6 control=7 value=127 time=0
+note_on channel=5 note=79 velocity=0 time=0
+note_on channel=3 note=67 velocity=127 time=0
+pitchwheel channel=7 pitch=-119 time=0
+note_on channel=0 note=44 velocity=55 time=0
+control_change channel=0 control=7 value=75 time=0
+note_on channel=9 note=44 velocity=100 time=0
+note_on channel=11 note=79 velocity=127 time=0
+note_on channel=4 note=38 velocity=0 time=0
+note_on channel=5 note=86 velocity=0 time=0
+note_on channel=10 note=69 velocity=0 time=0
+note_on channel=0 note=58 velocity=0 time=0
+note_on channel=9 note=40 velocity=0 time=0
+note_on channel=0 note=79 velocity=0 time=0
+note_on channel=8 note=72 velocity=97 time=0
+note_on channel=9 note=33 velocity=0 time=0
+note_on channel=4 note=36 velocity=79 time=0
+note_on channel=0 note=58 velocity=0 time=0
+note_on channel=1 note=66 velocity=124 time=0
+note_on channel=9 note=44 velocity=0 time=0
+note_on channel=1 note=67 velocity=127 time=0
+note_on channel=3 note=64 velocity=0 time=0
+note_on channel=5 note=88 velocity=78 time=0
+note_on channel=10 note=76 velocity=0 time=0
+note_on channel=4 note=38 velocity=94 time=0
+note_on channel=9 note=44 velocity=0 time=0
+note_on channel=2 note=50 velocity=0 time=0
+note_on channel=10 note=62 velocity=0 time=0
+note_on channel=5 note=67 velocity=47 time=0
+note_on channel=7 note=78 velocity=0 time=0
+pitchwheel channel=2 pitch=-1535 time=0
+note_on channel=2 note=86 velocity=0 time=0
+pitchwheel channel=12 pitch=-119 time=0
+note_on channel=10 note=74 velocity=55 time=0
+pitchwheel channel=7 pitch=-2048 time=0
+control_change channel=13 control=7 value=86 time=0
+note_on channel=7 note=79 velocity=0 time=0
+pitchwheel channel=2 pitch=-3583 time=0
+control_change channel=7 control=7 value=102 time=0
+note_on channel=9 note=44 velocity=0 time=0
+note_on channel=10 note=74 velocity=0 time=0
+note_on channel=2 note=64 velocity=0 time=0
+control_change channel=7 control=7 value=96 time=0
+program_change channel=0 program=1 time=0
+control_change channel=0 control=7 value=127 time=0
+control_change channel=0 control=10 value=64 time=0
+control_change channel=1 control=32 value=0 time=0
+control_change channel=13 control=7 value=100 time=0
+note_on channel=10 note=81 velocity=90 time=0
+note_on channel=9 note=44 velocity=0 time=0
+pitchwheel channel=2 pitch=-2545 time=0
+pitchwheel channel=12 pitch=-1535 time=0
+note_on channel=1 note=69 velocity=0 time=0
+note_on channel=14 note=67 velocity=0 time=0
+note_on channel=2 note=62 velocity=0 time=0
+note_on channel=10 note=72 velocity=0 time=0
+note_on channel=12 note=77 velocity=53 time=0
+note_on channel=10 note=69 velocity=108 time=0
+note_on channel=9 note=35 velocity=108 time=0
+note_on channel=9 note=44 velocity=36 time=0
+note_on channel=14 note=71 velocity=68 time=0
+note_on channel=14 note=84 velocity=0 time=0
+note_on channel=9 note=49 velocity=127 time=0
+note_on channel=7 note=86 velocity=0 time=0
+note_on channel=13 note=63 velocity=0 time=0
+note_on channel=1 note=64 velocity=0 time=0
+note_on channel=2 note=79 velocity=0 time=0
+pitchwheel channel=7 pitch=-955 time=0
+note_on channel=9 note=35 velocity=0 time=0
+note_on channel=10 note=69 velocity=0 time=0
+note_on channel=0 note=88 velocity=0 time=0
+note_on channel=13 note=62 velocity=0 time=0
+note_on channel=5 note=76 velocity=0 time=0
+note_on channel=9 note=44 velocity=100 time=0
+pitchwheel channel=4 pitch=-4573 time=0
+pitchwheel channel=7 pitch=-1074 time=0
+note_on channel=5 note=81 velocity=0 time=0
+pitchwheel channel=12 pitch=7737 time=0
+note_on channel=9 note=47 velocity=127 time=0
+note_on channel=9 note=49 velocity=64 time=0
+note_on channel=0 note=65 velocity=78 time=0
+note_on channel=5 note=62 velocity=0 time=0
+note_on channel=10 note=71 velocity=0 time=0
+control_change channel=6 control=64 value=26 time=0
+note_on channel=9 note=44 velocity=105 time=0
+note_on channel=14 note=74 velocity=0 time=0
+note_on channel=4 note=38 velocity=97 time=0
+control_change channel=6 control=64 value=4 time=0
+note_on channel=11 note=72 velocity=97 time=0
+control_change channel=6 control=64 value=19 time=0
+control_change channel=6 control=64 value=16 time=0
+note_on channel=4 note=38 velocity=127 time=0
+note_on channel=5 note=57 velocity=54 time=0
+pitchwheel channel=7 pitch=-119 time=0
+note_on channel=11 note=71 velocity=127 time=0
+note_on channel=5 note=57 velocity=97 time=0
+note_on channel=9 note=46 velocity=127 time=0
+control_change channel=0 control=64 value=0 time=0
+note_on channel=5 note=84 velocity=0 time=0
+note_on channel=10 note=72 velocity=0 time=0
+note_on channel=1 note=71 velocity=105 time=0
+note_on channel=9 note=46 velocity=0 time=0
+note_on channel=8 note=69 velocity=51 time=0
+note_on channel=10 note=69 velocity=127 time=0
+note_on channel=10 note=79 velocity=99 time=0
+note_on channel=3 note=71 velocity=73 time=0
+note_on channel=11 note=79 velocity=0 time=0
+note_on channel=9 note=44 velocity=0 time=0
+note_on channel=2 note=73 velocity=0 time=0
+note_on channel=1 note=74 velocity=0 time=0
+note_on channel=9 note=35 velocity=108 time=0
+note_on channel=15 note=46 velocity=0 time=0
+note_on channel=0 note=79 velocity=15 time=0
+note_on channel=4 note=31 velocity=0 time=0
+note_on channel=0 note=64 velocity=0 time=0
+note_on channel=10 note=69 velocity=0 time=0
+control_change channel=0 control=7 value=97 time=0
+note_on channel=2 note=81 velocity=0 time=0
+pitchwheel channel=11 pitch=-119 time=0
+note_on channel=10 note=69 velocity=0 time=0
+note_on channel=10 note=86 velocity=73 time=0
+note_on channel=10 note=77 velocity=0 time=0
+control_change channel=6 control=64 value=94 time=0
+pitchwheel channel=12 pitch=-1535 time=0
+pitchwheel channel=11 pitch=-3412 time=0
+note_on channel=14 note=67 velocity=127 time=0
+note_on channel=9 note=44 velocity=100 time=0
+note_on channel=9 note=47 velocity=88 time=0
+note_on channel=11 note=69 velocity=127 time=0
+pitchwheel channel=2 pitch=-1877 time=0
+note_on channel=5 note=76 velocity=0 time=0
+note_on channel=4 note=38 velocity=66 time=0
+note_on channel=9 note=35 velocity=108 time=0
+note_on channel=10 note=74 velocity=0 time=0
+note_on channel=3 note=71 velocity=0 time=0
+note_on channel=0 note=93 velocity=127 time=0
+note_on channel=3 note=71 velocity=0 time=0
+note_on channel=7 note=77 velocity=102 time=0
+note_on channel=11 note=69 velocity=83 time=0
+note_on channel=3 note=71 velocity=105 time=0
+note_on channel=4 note=38 velocity=0 time=0
+note_on channel=4 note=38 velocity=0 time=0
+note_on channel=5 note=86 velocity=97 time=0
